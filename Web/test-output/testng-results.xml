@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-20T17:51:39 GST" name="Suite" finished-at="2021-07-20T17:51:48 GST" duration-ms="8797">
+    <groups>
+    </groups>
+    <test started-at="2021-07-20T17:51:39 GST" name="Test" finished-at="2021-07-20T17:51:48 GST" duration-ms="8797">
+      <class name="Mainpkg.WebAssignmentMainClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Mainpkg.WebAssignmentMainClass@14555e0a]" started-at="2021-07-20T17:51:39 GST" name="setup" finished-at="2021-07-20T17:51:43 GST" duration-ms="3788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickDroppable()[pri:0, instance:Mainpkg.WebAssignmentMainClass@14555e0a]" started-at="2021-07-20T17:51:43 GST" name="ClickDroppable" finished-at="2021-07-20T17:51:45 GST" duration-ms="1870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickDroppable -->
+        <test-method signature="ClickSelectable()[pri:1, instance:Mainpkg.WebAssignmentMainClass@14555e0a]" started-at="2021-07-20T17:51:45 GST" name="ClickSelectable" finished-at="2021-07-20T17:51:46 GST" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSelectable -->
+        <test-method signature="ClickControlGroup()[pri:2, instance:Mainpkg.WebAssignmentMainClass@14555e0a]" started-at="2021-07-20T17:51:46 GST" name="ClickControlGroup" finished-at="2021-07-20T17:51:48 GST" duration-ms="1378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickControlGroup -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Mainpkg.WebAssignmentMainClass@14555e0a]" started-at="2021-07-20T17:51:48 GST" name="afterTest" finished-at="2021-07-20T17:51:48 GST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Mainpkg.WebAssignmentMainClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
